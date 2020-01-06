@@ -72,11 +72,11 @@
     },
     {
       "id": 11,
-      "slug": "new-test-course-2",
-      "title": "new test course 2",
+      "slug": "new-test-course-3",
+      "title": "new test course 3",
       "authorId": 1,
       "category": "test",
-      "createdAt": 1578001407346
+      "createdAt": 1578324973524
     }
   ],
   "authors": [
